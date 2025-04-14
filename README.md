@@ -44,3 +44,8 @@ Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise02
 Commit -> https://github.com/noxikoxi/machine-learning/commit/c16b7ea515c3e8851cae5f236efb68782c26c918
 
 Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise03
+
+### Exercise 04 Ensemble Methods
+
+
+### Exercise 05 SVM
