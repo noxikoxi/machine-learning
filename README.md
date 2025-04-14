@@ -47,5 +47,12 @@ Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise03
 
 ### Exercise 04 Ensemble Methods
 
+:white_check_mark: Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
+
+:white_check_mark: Build arcing arc-x4 method. 
+
+Commit -> https://github.com/noxikoxi/machine-learning/commit/771042aedfb68a977525a995cf66880c92cdc246
+
+Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise04
 
 ### Exercise 05 SVM
