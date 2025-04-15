@@ -56,3 +56,11 @@ Commit -> https://github.com/noxikoxi/machine-learning/commit/771042aedfb68a9775
 Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise04
 
 ### Exercise 05 SVM
+
+:white_check_mark: Implement the polynomial kernel.
+
+:white_check_mark: Implement the multiclass C-SVM. 
+
+Commit -> https://github.com/noxikoxi/machine-learning/commit/435db3cace1f76dc3ac34d1cec12e8d2227d6af3
+
+Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise05
