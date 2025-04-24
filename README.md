@@ -71,7 +71,7 @@ Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise05
 
 :white_check_mark: Get tags from Trump speech.
 
-:white_check_mark: Get the nouns in the last 10 sentences from Trump’s speech and find the nouns divided by sentencens. Use SpaCy.
+:white_check_mark: Get the nouns in the last 10 sentences from Trump’s speech and find the nouns divided by sentences. Use SpaCy.
 
 :white_check_mark: Build your own Bag Of Words implementation using tokenizer created before.
 
