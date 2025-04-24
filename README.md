@@ -75,8 +75,8 @@ Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise05
 
 :white_check_mark: Build your own Bag Of Words implementation using tokenizer created before.
 
-Build a 5-gram model and clean up the results.
+:white_check_mark: Build a 5-gram model and clean up the results.
 
-Commit -> https://github.com/noxikoxi/machine-learning/commit/
+Commit -> https://github.com/noxikoxi/machine-learning/commit/a9b5f0e734d448b0fb145190fc8901877b5ceac9
 
 Code -> https://github.com/noxikoxi/machine-learning/tree/main/exercise06
